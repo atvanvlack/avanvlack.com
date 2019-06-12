@@ -1,6 +1,6 @@
-A React CV Template APP with six different color schemes, just clone the repository and edit js files under src/data folder.
+A React CV Template App. Modified from another Template with Latest Packages. 
 
-Sample Page
+CV Page
 [http://andrewvanvlack.com](http://andrewvanvlack.com/)
 
 ##Credits
@@ -11,4 +11,3 @@ Sample Page
 - [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
 - [jQuery](http://jquery.com/)
 
-Updated File
