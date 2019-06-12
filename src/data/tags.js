@@ -1,0 +1,38 @@
+export const tags = {
+  sectionTitle: '',
+  icon: null,
+  list: [
+    'Project Management',
+    'Delivery',
+    'Leadership',
+    'Front-End',
+    'Back-End',
+    'Sitecore',
+    'Drupal',
+    'Umbraco',
+    'HTML',
+    'CSS',
+    'JavaScript',
+    'React JS',
+    'Angular',
+    'C#',
+    'ASP.NETMVC',
+    '.NET CORE',
+    'PHP',
+    'SQL',
+    'MYSQL',
+    'Mongo DB',
+    'Graph QL',
+    'Git',
+    'TFS',
+    'DevOps',
+    'Visual Studio',
+    'Microsoft IIS',
+    'Apache',
+    'Amazon Web Services',
+    'Microsoft Azure',
+    'N-TIER ARCHITECTURE',
+    'SOA ARCHITECTURE']
+};
+
+export default tags;
