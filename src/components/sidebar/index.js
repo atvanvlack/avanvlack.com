@@ -50,7 +50,7 @@ export default class Sidebar extends Component {
       website={this.props.website}
       linkedin={this.props.linkedin}
       github={this.props.github}
-      title={this.props.title}
+      cv={this.props.cv}
       twitter={this.props.twitter}
     />);
   }
@@ -77,6 +77,7 @@ Sidebar.propTypes = {
   website: PropTypes.string,
   linkedin: PropTypes.string,
   github: PropTypes.string,
+  cv: PropTypes.string,
   twitter: PropTypes.string,
   RightToWork: PropTypes.shape().isRequired,
   educationDetails: PropTypes.shape().isRequired,
@@ -89,5 +90,6 @@ Sidebar.defaultProps = {
   website: null,
   linkedin: null,
   github: null,
+  cv: null,
   twitter: null
 };

@@ -15,6 +15,9 @@ export default class ContactDetails extends Component {
       case 'linkedin':
         href = 'https://www.linkedin.com/in/andrewvanvlack/';
         break;
+      case 'cvlink':
+          href = 'https://andrewvanvlack.com/';
+          break;
     }
     return (
       <li className={className}>
@@ -32,6 +35,7 @@ export default class ContactDetails extends Component {
           {this.renderListItem('website', this.props.website, 'fa-globe', 'link')}
           {this.renderListItem('linkedin', this.props.linkedin, 'fa-linkedin', 'linkedin')}
           {this.renderListItem('github', this.props.github, 'fa-github', 'link')}
+          {this.renderListItem('download cv', this.props.cv, 'fa-globe', 'cvlink')}
           {this.renderListItem('twitter', this.props.twitter, 'fa-twitter', 'link')}
         </ul>
       </div>
@@ -45,6 +49,7 @@ ContactDetails.propTypes = {
   website: PropTypes.string,
   linkedin: PropTypes.string,
   github: PropTypes.string,
+  cv: PropTypes.string,
   twitter: PropTypes.string,
 };
 
@@ -53,5 +58,6 @@ ContactDetails.defaultProps = {
   website: null,
   linkedin: null,
   github: null,
+  cv: null,
   twitter: null
 };

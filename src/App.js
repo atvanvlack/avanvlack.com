@@ -29,7 +29,7 @@ export default class CV extends Component {
     return null;
   }
   renderOpenSourcePart() {
-    return (<div><a href="https://andrewvanvlack.com" target="_blank">&copy; 2019 - Rights to work in the United Kingdom, 28 EU Countries and USA </a></div>);
+    return (<div><a href="https://andrewvanvlack.com" target="_blank">&copy; 2019 - Andrew Van Vlack</a></div>);
   }     
   renderCareerProfile() {
     const { icon, sectionTitle, description } = this.props.careerProfile;
