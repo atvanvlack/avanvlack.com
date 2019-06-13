@@ -6,7 +6,7 @@ const profile = {
   website: 'coreinthedetails.co.uk',
   linkedin: 'linkedin.com',
   github: 'github.com/atvanvlack',
-  cv: 'src/assets/vanvlack-cv.pdf',
+  cv: 'vanvlack-cv.pdf',
   imagePath: 'profile.png',
   twitter: null,
   RightToWork: {
