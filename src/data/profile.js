@@ -4,14 +4,14 @@ const profile = {
   mail: 'atvanvlack@gmail.com',
   phoneNumber: '+44 07482801569',
   website: 'coreinthedetails.co.uk',
-  linkedin: 'linkedin.com',
+  linkedin: 'andrewvanvlack',
   github: 'github.com/atvanvlack',
   cv: 'vanvlack-cv.pdf',
   imagePath: 'profile.png',
   twitter: null,
   RightToWork: {
     sectionTitle: 'Rights to Work',
-    list: ['United Kingdom', '28 EU Countries', 'United States']
+    list: ['United States', 'United Kingdom', '28 EU Countries']
   },
   educationDetails: {
     sectionTitle: '',
@@ -25,7 +25,7 @@ const profile = {
   },
   interests: {
     sectionTitle: '',
-    list: ['Snowboarding', 'Music Production', 'DevOps', 'Festivals', 'Guitar', 'Life']
+    list: ['Snowboarding', 'Music Production', 'DevOps', 'Ableton', 'Guitar', 'Travel']
   }
 };
 
