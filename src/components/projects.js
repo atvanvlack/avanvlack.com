@@ -16,12 +16,15 @@ export default class Projects extends Component {
       </div>
     );
   }
+
+
+  
   renderProjectTitle(project) {
     let inner = project.title;
     if (project.url) {
       inner = <a href={project.url} target="_blank">{project.title}</a>;
     }
-    return (<span className="project-title" style={{ marginRight: 5 }}>{inner}</span>);
+    return (<span className="project-title" style={{ marginRight: 5 }}><b>{inner}</b></span>);
   }
   renderIntro(description) {
     if (!description) { return null; }

@@ -3,10 +3,9 @@ const profile = {
   title: 'Full Stack Developer',
   mail: 'atvanvlack@gmail.com',
   phoneNumber: '+44 07482801569',
-  website: 'coreinthedetails.co.uk',
+  website: 'andrewvanvlack.com',
   linkedin: 'andrewvanvlack',
   github: 'github.com/atvanvlack',
-  cv: 'vanvlack-cv.pdf',
   imagePath: 'profile.png',
   twitter: null,
   RightToWork: {
@@ -25,7 +24,7 @@ const profile = {
   },
   interests: {
     sectionTitle: '',
-    list: ['Snowboarding', 'Music Production', 'DevOps', 'Ableton', 'Guitar', 'Travel']
+    list: ['Snowboarding', 'Music Production', 'Ableton', 'Guitar', 'Travel']
   }
 };
 
