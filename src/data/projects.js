@@ -47,7 +47,7 @@ export const projects = {
       {
         url: '',
         title: 'Server Admin',
-        description: 'During my time at AAA I was responsible to manage the on-premise servers that we used for a variety of different purposes. I worked to maintain, update and configure 10 IIS Virtual Machines. I also administered a Redhat linux server for hosting php microsites. I helped manage both the production and staging environments for multiple applications.'
+        description: 'During my time at AAA I was responsible to manage the on-premise servers that we used for a variety of different purposes. I worked to maintain, update and configure 10 IIS Virtual Machines. I also administered a linux server for hosting php microsites. I helped manage both the production and staging environments for multiple applications.'
       },
       {
         url: '',
@@ -90,7 +90,7 @@ export const projects = {
       {
         url: '',
         title: 'Network Administration',
-        description: 'As a Support administrator I also worked in the datacenter and was responsible for monitoring the network, security and performance of the machines. This ranged from monitoring applications, building and migrating new servers and managing existing servers.'
+        description: 'As a Support administrator I also worked in the data center and was responsible for monitoring the network, security and performance of the machines. This ranged from monitoring applications, building and migrating new servers and managing existing servers.'
       }]
     },
     {
