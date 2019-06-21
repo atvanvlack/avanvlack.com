@@ -13,7 +13,7 @@ export default class ContactDetails extends Component {
         href = `tel:${data}`;
         break;
       case 'linkedin':
-        href = 'https://www.linkedin.com/in/andrewvanvlack/';
+        href = 'www.linkedin.com/in/andrewvanvlack/';
         break;
       case 'cvlink':
           href = 'https://andrewvanvlack.com/';

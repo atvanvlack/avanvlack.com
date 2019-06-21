@@ -1,5 +1,5 @@
 export const experiences = {
-  sectionTitle: '',
+  sectionTitle: 'Career',
   icon: null,
   description: null,
   list: [
@@ -12,9 +12,9 @@ export const experiences = {
       date: '2018.07 - Present'
     },
     {
-      title: 'Full Stack E-Business Developer',
+      title: 'Full Stack Developer',
       company: 'American Automobile Association (AAA Club Alliance)',
-      description: 'For almost 9 years I worked as a Developer for AAA. My responsibilities included Web Development, Mobile Development, Infrastructure Administration, Network Administration and Project Management. AAA is best known as the company that helps people when their car needs to be towed. AAA is a national organization that has different clubs for different regions. AAA Club Alliance is based in the Mid Atlantic region (Delaware, Maryland, Pennsylvania, New Jersey, Virginia). My experience at AAA is where I expanded my understanding of different web technologies that are currently in use with organizations all over the world.',
+      description: 'For almost 9 years I worked in the E-Business department as a Full Stack Developer for AAA. My responsibilities included Web Development, Mobile Development, Infrastructure Administration, Network Administration and Project Management. AAA is best known as the company that helps people when their car needs to be towed. AAA Club Alliance is based in the Mid-Atlantic region (Delaware, Maryland, Pennsylvania, New Jersey, Virginia).',
       companyLink: 'https://midatlantic.aaa.com',
       companyShortDetail: '| Wilmington, DE',
       date: '2009.8 - 2018.5'
