@@ -4,9 +4,9 @@ export const experiences = {
   description: null,
   list: [
     {
-      title: 'Solutions Developer - Consultant',
+      title: 'Solutions Developer - Senior Consultant',
       company: 'Avanade UK & Ireland',
-      description: 'I am currently working as a Solution Developer. Avanade is owned by Accenture & Microsoft. In this role I have had a chance to travel England and work with large clients in a variety of industries. The focus of work at Avanade is in the Microsoft Platform Ecosystem. Most of my development effort is spent in Visual Studio or Microsoft Azure. Working as a consultant my primary role is client facing where I help large businesses solve highly technical problems.',
+      description: 'I am currently working as a Senior Solution Developer in London. Avanade is a joint venture owned by Accenture & Microsoft. In this role I have had a chance to travel England and work with large clients in a variety of industries. The focus of my work at Avanade is with the Microsoft Platform Ecosystem. Most of my development effort is spent in Visual Studio or Microsoft Azure. Working as a consultant my primary role is client facing where I help large businesses solve highly technical problems.',
       companyLink: 'https://www.avanade.com',
       companyShortDetail: '| London, United Kingdom',
       date: '2018.07 - Present'
